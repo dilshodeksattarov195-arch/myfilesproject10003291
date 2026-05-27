@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildarse",
+        "uuid": 15842874,
+        "checksum": "col038"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
